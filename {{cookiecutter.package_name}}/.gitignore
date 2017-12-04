@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Pycharm settings 
+.idea
+
+# Visual studio code settings
+.vscode
